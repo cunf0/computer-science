@@ -34,7 +34,7 @@
  
 ---
 
-❌## Intro CS
+## ❌Intro CS
 
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
@@ -48,11 +48,11 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 ❌[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
 
-❌## Core CS
+## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
-❌### Core programming
+### Core programming
 **Topics covered**:
 `functional programming`
 `design for testing`
