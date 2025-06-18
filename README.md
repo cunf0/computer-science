@@ -27,6 +27,10 @@
   - [Advanced math](#advanced-math)
 - [Final project](#final-project)
 
+
+ ✅ done
+ ❌ undone yet
+ 
 ---
 
 ## Intro CS
